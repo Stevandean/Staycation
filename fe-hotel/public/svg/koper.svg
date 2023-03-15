@@ -1,0 +1,9 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"	 viewBox="0 0 512 512" xml:space="preserve">
+<rect x="144" y="160" style="fill:#fff;" width="224" height="288"/>
+<g>
+	<rect x="170" y="220" style="fill:#FF498B;" width="32" height="200"/>
+	<rect x="240" y="270" style="fill:#FF498B;" width="32" height="130"/>
+	<rect x="310" y="220" style="fill:#FF498B;" width="32" height="200"/>
+</g>
+<path style="fill:#00384E;" d="M400,128h-80V48V16V0H192v128h-80v352h48v32h32v-32h128v32h32v-32h48V128z M224,48h64v80h-64V48zM368,448H144V160h48h128h48V448z"/>
+</svg>

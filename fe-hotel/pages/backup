@@ -1,0 +1,26 @@
+<!-- room type -->
+<div className="">
+room type
+    <h1 className='text-darkBlue text-2xl font-semibold tracking-wide mb-5'>Tipe Kamar</h1>
+    wrapper all type
+        <div className="grid grid-cols-4 gap-x-5">
+            <!-- wrapper type card -->
+            <div className='max-h-52'>
+                <img className='w-full h-full object-cover rounded-2xl' src="/images/room1.jpg" alt="" />
+                <h1 className='font-semibold text-xl text-darkBlue'>Ini Judul</h1>
+            </div>
+        </div>
+</div>
+
+<!-- public facilities -->
+<div className="">
+    <h1 className='text-darkBlue text-2xl font-semibold tracking-wide mb-5'>Fasilitas Umum</h1>
+        <!-- wrapper all facilities -->
+        <div className="grid grid-cols-4 gap-x-5">
+        <!-- wrapper facilities card -->
+            <div className='max-h-52'>
+                <img className='w-full h-full object-cover rounded-2xl' src="/images/room1.jpg" alt="" />
+                <h1 className='font-semibold text-xl text-darkBlue'>Ini Judul</h1>
+            </div>
+        </div>
+</div>
